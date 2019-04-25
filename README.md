@@ -9,3 +9,6 @@ Jt2Cojt.pyw
 
 // Compare the process info of welding spot list of different version
 SpotFileVerCompare.pyw
+
+// Update the P/t/S arguments of spot command
+OlpPostProcess.cpp
