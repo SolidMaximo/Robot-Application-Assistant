@@ -1,6 +1,5 @@
-/*
-Robot-Application-Assistant
-Toolkits for robot application simulation in siemens Tecnomatix product
+/* Robot-Application-Assistant */
+/* Toolkits for robot application simulation in siemens Tecnomatix product */
 Backup fanuc robots in Ethernet/IP network with FTP
 FtpRemoteBackup.py
 Pack the JT file into .cojt directory
