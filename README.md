@@ -1,11 +1,11 @@
 # Robot-Application-Assistant
 Toolkits for robot application simulation in siemens Tecnomatix product
 
-// 用于Ethernet/IP网络中机器人批量备份
+// Backup fanuc robots in Ethernet/IP network with FTP
 FtpRemoteBackup.py
 
-// 用于JT格式文件批量添加COJT文件夹壳
+// pack the JT file into .cojt directory
 Jt2Cojt.pyw
 
-// 用于焊点文件版本比较
+// Compare the process info of welding spot list of different version
 SpotFileVerCompare.pyw
