@@ -1,5 +1,5 @@
 Robot-Application-Assistant
-Toolkits for robot application simulation in siemens Tecnomatix product
+Toolkits for robot application simulation in Siemens Tecnomatix product
 
 Backup Fanuc robots in Ethernet/IP network with FTP ==> FtpRemoteBackup.py
 
